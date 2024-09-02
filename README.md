@@ -1,26 +1,11 @@
 # Creating a Custom Docker Image
-
-This README.md file covers the following:
-
-1. Writing the Dockerfile
-
-2. Defining the base image
-
-3. Installing packages
-
-4. Defining the start command
-
-5. Building the Docker image
-
-6. Running the Docker container
-
-7. Accessing the Apache2 web server
+[Checkout the full Article on Medium](https://medium.com/@sharmarvellous/creating-a-custom-docker-image-a-step-by-step-guide-903de1559c91)
 
 ## Steps
 
 ### 1. Writing the Dockerfile
 
-1. Create a new file named `Dockerfile` using the text editor of your choice (e.g., `vim Dockerfile`).
+Create a new file named `Dockerfile` using the text editor of your choice (e.g., `vim Dockerfile`).
 
 ### 2. Defining the Base Image
 
